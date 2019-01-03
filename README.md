@@ -48,7 +48,7 @@ c] Creating a product.
   
  e] Deleting a product.
  
-   http://localhost/{your_folder_name}/apiv1/product/delete.php
+     http://localhost/{your_folder_name}/apiv1/product/delete.php
     {
     "id" : "106"
      }
